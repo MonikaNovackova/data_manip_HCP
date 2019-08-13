@@ -1,0 +1,11 @@
+canon
+/s[a-zA-Z]{0,3}[0-9]{3,4}[a-zAZ]{0,3}/s
+
+NEBO VEPREDU MUZE BYT pomlcka misto mezery a pred pomlckou pismena (brother)
+
+epson:
+
+1 nebo 2 velke pismena, pomlcku nebo nic, tri nebo 4 cisla
+
+
+[A-Z]{1,2}[-?0-9]{3,4}
